@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 Sep 2025 17:12:56 at https://ecomusnext-themesflat.vercel.app/home-08 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ecomusnext-themesflat.vercel.app/home-08 -O1 "C:\Users\WELCOME\Documents\Veer bhaiya kaa AI websites\test for clone\copy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:31:04	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/product-no-zoom (from https://ecomusnext-themesflat.vercel.app/home-08)
+17:31:05	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/product-3d (from https://ecomusnext-themesflat.vercel.app/home-08)
+17:31:06	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/product-rectangle (from https://ecomusnext-themesflat.vercel.app/home-08)
+17:31:07	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/product-swatch-image-rounded (from https://ecomusnext-themesflat.vercel.app/home-08)
+17:31:10	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/terms (from https://ecomusnext-themesflat.vercel.app/home-08)
+17:32:01	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/product-detail (from https://ecomusnext-themesflat.vercel.app/product-detail-buyx-gety/38)
+17:32:09	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/product-giftcard (from https://ecomusnext-themesflat.vercel.app/home-giftcard)
+17:32:16	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/images/slider/testimonials-sb.jpg (from https://ecomusnext-themesflat.vercel.app/home-skateboard)
+17:32:39	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://ecomusnext-themesflat.vercel.app/_next/static/chunks/app/(homes)/home-handbag/page-a58613df531098ae.js (from https://ecomusnext-themesflat.vercel.app/home-handbag)
+17:32:51	Error: 	"Not Found" (404) at link https://ecomusnext-themesflat.vercel.app/shop-collection-sub.html (from https://ecomusnext-themesflat.vercel.app/home-jewerly)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 58 seconds : 2550 links scanned, 2539 files written (335055867 bytes overall) [183636563 bytes received at 145975 bytes/sec], 189520130 bytes transferred using HTTP compression in 909 files, ratio 18%
+(9 errors, 1 warnings, 0 messages)
